@@ -6,7 +6,7 @@ Use permutation feature importance to discover which features in your dataset ar
 
 Full article: TODO
 
-# Introduction
+## Article Introduction
 Advanced topics in machine learning are dominated by so-called black box models. As the name suggests, black box models are complex models where it's extremely hard to understand how model inputs are combined to make predictions. Deep learning models like artificial neural networks and ensemble models like random forests, gradient boosting learners, and model stacking could all be considered black box models that yield remarkably accurate predictions in a variety of domains from urban planning to computer vision. 
 
 Diagram of a Black Box ModelOne drawback to using these black box models, however, is that it's often impossible to use traditional statistical inference to interpret how factors influence how predictions. This article will explain an alternative way to interpret black box models called permutation feature importance. Permutation feature importance is a powerful tool that allows us to detect which features in our dataset have predictive power regardless of what model we're using. 
