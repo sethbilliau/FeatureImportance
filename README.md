@@ -1,4 +1,4 @@
-# Feature Importance
+# Permutation Feature Importance for ML Interpretability from Scratch
 
 Code Repository for "Permutation Feature Importance for ML Interpretability from Scratch"
 
