@@ -4,7 +4,7 @@ Code Repository for "Permutation Feature Importance for ML Interpretability from
 
 Use permutation feature importance to discover which features in your dataset are useful for prediction–implemented from scratch in python.
 
-Full article: TODO
+Full article: https://towardsdatascience.com/from-scratch-permutation-feature-importance-for-ml-interpretability-b60f7d5d1fe9
 
 ## Article Introduction
 Advanced topics in machine learning are dominated by so-called black box models. As the name suggests, black box models are complex models where it's extremely hard to understand how model inputs are combined to make predictions. Deep learning models like artificial neural networks and ensemble models like random forests, gradient boosting learners, and model stacking could all be considered black box models that yield remarkably accurate predictions in a variety of domains from urban planning to computer vision. 
